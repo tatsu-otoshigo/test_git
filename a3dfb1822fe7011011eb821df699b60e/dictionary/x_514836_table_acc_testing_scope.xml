@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Testing Scope" max_length="40" name="x_514836_table_acc_testing_scope" sizeclass="3" type="collection"/>
+</database>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Testing Scope</name>
+        <order/>
+        <roles>x_514836_table_acc.testing_scope_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-20 09:55:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1e410e062fe7011011eb821df699b69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing Scope</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Table Access Test" source="x_514836_table_acc">a3dfb1822fe7011011eb821df699b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Table Access Test">a3dfb1822fe7011011eb821df699b60e</sys_scope>
+        <sys_update_name>sys_ui_application_1e410e062fe7011011eb821df699b69a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-20 09:55:32</sys_updated_on>
+    </sys_ui_application>
+</record_update>
